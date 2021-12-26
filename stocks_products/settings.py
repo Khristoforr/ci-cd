@@ -134,3 +134,5 @@ REST_FRAMEWORK = {
 }
 
 django_on_heroku.settings(locals())
+
+#132
