@@ -5,3 +5,6 @@ psycopg2-binary
 gunicorn
 flake8
 django_on_heroku
+pytest
+pytest-django
+model_bakery
