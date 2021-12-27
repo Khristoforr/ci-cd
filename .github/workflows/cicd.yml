@@ -24,8 +24,8 @@ jobs:
         run:
           flake8 logistic/
   #
-  #    - name: Test with pytest
-  #      run: pytest
+      - name: Test with pytest
+        run: pytest
 
 
 
